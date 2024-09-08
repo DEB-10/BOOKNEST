@@ -79,7 +79,7 @@ body {
   font-family: Montserrat;
 }
 .header {
-  background-image: url("../main/room.jpg");
+  background-image: url("room.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
