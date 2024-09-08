@@ -305,7 +305,7 @@ nav {
 }
 
 .service {
-  background-image: url("C:/Users/DEBASISH GUHA/Desktop/land/recep.jpg");
+  background-image: url("BOOKNEST/recep.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -407,7 +407,7 @@ nav {
     minmax(1rem, 1fr)
     minmax(0, var(--max-width))
     minmax(1rem, 1fr);
-  background-image: url("C:/Users/DEBASISH GUHA/Downloads/explore.jpg");
+  background-image: url("BOOKNEST/explore.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
